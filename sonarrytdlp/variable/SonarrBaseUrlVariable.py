@@ -1,0 +1,2 @@
+class SonarrBaseUrlVariable(str):
+    pass

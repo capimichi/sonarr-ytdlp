@@ -1,0 +1,2 @@
+class SonarrApiKeyVariable(str):
+    pass
